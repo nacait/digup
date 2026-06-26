@@ -4,3 +4,6 @@
 # Why YaCy?
   - P2P, popular and free
   - Easy to add to search index
+
+# Sample YaCy
+  - https://yacy.eskimo.com
